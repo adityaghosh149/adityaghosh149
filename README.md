@@ -13,15 +13,6 @@
 -   🔭 Building **EventPulse** - An event management platform
 -   🤝 Open to collaboration opportunities and technical discussions
 
-### 🚀 Featured Project
-
-#### EventPulse
-
--   A comprehensive event management platform built with modern technologies
--   Repository: [EventPulse Server](https://github.com/adityaghosh149/eventpulse-server)
--   Looking for collaborators and contributors
--   Technologies: Node.js, Express, MongoDB
-
 ### 💻 Technical Skills
 
 #### Languages
