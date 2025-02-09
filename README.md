@@ -1,17 +1,16 @@
-<h1 align="center">Aditya Ghosh</h1>
-<h3 align="center">Backend Developer | Node.js | Express | MongoDB</h3>
+<h1 align="center">Hi 👋, I'm Aditya Ghosh</h1>
+<h3 align="center">A passionate backend developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityaghosh149&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ### About Me
-
-- 🎯 Backend Developer passionate about building scalable web applications  
-- 🌱 Currently expanding expertise in **Node.js**, **Express**, and **MongoDB**  
-- 💡 Strong foundation in Data Structures and Algorithms (Active on LeetCode)  
-- 🔭 Building **EventPulse** - An event management platform  
-- 🤝 Open to collaboration opportunities and technical discussions  
+-   🔭 I’m currently working on [EventPulse](https://github.com/adityaghosh149/eventpulse-server)
+-   🌱 I’m currently learning **Node.js, Express, MongoDB**
+-   👯 I’m looking to collaborate on [EventPulse](https://github.com/adityaghosh149/eventpulse-server)
+-   🤝 I’m looking for help with [EventPulse](https://github.com/adityaghosh149/eventpulse-server)
+-   📫 How to reach me **ghoshaditya149@gmail.com**
 
 ### 💻 Technical Skills
 
