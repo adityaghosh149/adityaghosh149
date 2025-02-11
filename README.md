@@ -6,10 +6,10 @@
 </p>
 
 ### About Me
--   🔭 I’m currently working on [EventPulse](https://github.com/adityaghosh149/eventpulse-server)
+-   🔭 I’m currently working on [DigiEvent](https://github.com/adityaghosh149/digievent-server)
 -   🌱 I’m currently learning **Node.js, Express, MongoDB**
--   👯 I’m looking to collaborate on [EventPulse](https://github.com/adityaghosh149/eventpulse-server)
--   🤝 I’m looking for help with [EventPulse](https://github.com/adityaghosh149/eventpulse-server)
+-   👯 I’m looking to collaborate on [DigiEvent](https://github.com/adityaghosh149/digievent-server)
+-   🤝 I’m looking for help with [DigiEvent](https://github.com/adityaghosh149/digievent-server)
 -   📫 How to reach me **ghoshaditya149@gmail.com**
 
 ### 💻 Technical Skills
