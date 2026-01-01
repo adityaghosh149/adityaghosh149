@@ -34,11 +34,3 @@
   <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
-
-### 📈 GitHub Stats
-
-<div style="display: flex; flex-direction: row; gap: 20px;">
-    <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaghosh149&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=adityaghosh149&show_icons=true&locale=en" alt="GitHub Stats" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaghosh149" alt="GitHub Streak" />
-</div>
